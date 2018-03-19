@@ -1,5 +1,5 @@
 {
-  "name": "dy",
+  "name": "React, Redux, Server Side Starter",
   "version": "1.0.0",
   "description": "Build and run this project",
   "main": "./dist/server.js",
